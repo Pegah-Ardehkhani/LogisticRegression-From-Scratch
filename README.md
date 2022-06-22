@@ -4,3 +4,6 @@
   <img width="700" height="450" src="https://miro.medium.com/max/1400/1*PQ8tdohapfm-YHlrRIRuOA.gif">
 </p>
 
+## Objectives 🏆
+
+The **Logistic Regression** algorithm is implemented from scratch using Numpy.
